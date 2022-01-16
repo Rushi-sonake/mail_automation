@@ -1,0 +1,2 @@
+# mail_automation
+Robocorp
